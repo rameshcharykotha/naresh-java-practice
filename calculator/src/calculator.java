@@ -3,6 +3,11 @@ import javax.swing.*;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
 import java.awt.event.*;
+/**
+ * 
+ * @author naresh.kotha
+ *
+ */
 class Calc implements ActionListener
 {
 	JFrame f;
